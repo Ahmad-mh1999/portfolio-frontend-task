@@ -10,7 +10,8 @@ import sassLogo from './../../assets/sass.svg';
 import bootstrapLogo from './../../assets/bootstrap.svg';
 import jqueryLogo from './../../assets/jquery.svg';
 import primLogo from './../../assets/prim.svg';
-
+/*vhvnbv
+*/
 
 type SkillItem = {
     title: string;
